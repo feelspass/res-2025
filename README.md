@@ -17,7 +17,7 @@ In this exercise, you will fork the course repository, add your completed mini p
 Open a terminal and run:
 
 ```
-git clone https://github.com/lisawink/res-2025.git
+git clone https://github.com/YOUR_USERNAME/res-2025.git
 cd res-2025
 ```
 
